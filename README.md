@@ -3,7 +3,7 @@
 <h2>🖥️ IT & Sys Admin Lab:</h2>
 
 - <b>Setting up Virtual Environment (VMWare Pro 17</b>
-  - [VMWare Pro 17 Setup](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [VMWare Pro 17 Setup](https://github.com/edwinamaderac72/VMWare-Pro-17-Setup)
 
 
 <h2>📺 Future Videos</h2>
