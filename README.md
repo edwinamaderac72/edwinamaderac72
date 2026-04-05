@@ -3,9 +3,8 @@
 <h1> ⚠️ Repo under construction ⚠️ </h1>
 
 <h2>Step by Step guide is under construction, but in the meantime, here's the diagram of the IT & Sys Admin Lab</h2> <br/>
-<img src="https://i.imgur.com/vydELgt.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/qpqm6ON.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://onedrive.live.com/e584fb3d-23c9-4555-8b2e-ae95588078e7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vydELgt.jpeg" height="80%" width="80%" alt="Diagram"/>
+<img src="https://i.imgur.com/qpqm6ON.jpeg" height="80%" width="80%" alt="Changes"/>
 <br />
 
 <h2>🖥️ IT & Sys Admin Lab:</h2>
