@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edwin! <br/>, <a href="https://www.linkedin.com/in/edwinmadera03/">IT & Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Edwin! <br/>, <a href="https://www.linkedin.com/in/edwinmadera03/">IT & Cybersecurity Professional</a>
 
 <h2>🖥️ IT & Sys Admin Lab:</h2>
 
