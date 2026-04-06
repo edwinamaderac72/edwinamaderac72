@@ -20,7 +20,14 @@
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<h2>🏅 Certifications</h2>
 
+<a href="https://www.credly.com/org/isc2/badge/cc" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="110" alt="CC - Certified in Cybersecurity" />
+</a>
+<a href="https://www.credly.com/org/isc2/badge/sscp" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/9bf57f8f-1db1-4e34-81e3-a9a6cfc5abd4/image.png" width="110" alt="SSCP - Systems Security Certified Practitioner" />
+</a>
 
 [youtube]: https://www.youtube.com/@EdwinAMaderaCoronado
 [linkedin]: https://www.linkedin.com/in/edwinmadera03
