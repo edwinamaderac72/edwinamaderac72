@@ -3,7 +3,7 @@
 <h2>🖥️ IT & Sys Admin Lab:</h2>
 
 - <b>Windows Server 2022 - 2x DC, DNS, DHCP and Win11 Client with GPO's</b>
-  - [Full lab](https://github.com/edwinamaderac72/Windows-Server-2022-AD-DNS-DHCP)
+  - [Windows Server Lab](https://github.com/edwinamaderac72/Windows-Server-2022-AD-DNS-DHCP)
 
 <h2>INCOMING: Wazuh SIEM Monitoring environment</h2>
 - <b>Wazuh Manager hosted in Ubuntu</b></br>
