@@ -6,7 +6,7 @@
   - [Full lab](https://github.com/edwinamaderac72/Windows-Server-2022-AD-DNS-DHCP)
 
 <h2>INCOMING: Wazuh SIEM Monitoring environment</h2>
-- <b>Wazuh Manager hosted in Ubuntu</b>
+- <b>Wazuh Manager hosted in Ubuntu</b></br>
 - <b>Configure agents to ingest logs</b>
 - <b>Create custom detecting rules</b>
 
