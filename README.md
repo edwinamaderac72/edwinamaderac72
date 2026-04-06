@@ -25,7 +25,7 @@
 <h2>🏅 Certifications</h2>
 
 <a href="https://www.credly.com/badges/1297ae51-7177-42ed-88b5-785172b3a333/public_url">
-  <img src="https://miro.medium.com/0*jSndyp85wO4-ZBGh.jpeg" width="200" alt="CC - Certified in Cybersecurity"/>
+  <img src="https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="200" alt="CC - Certified in Cybersecurity"/>
 </a>
 <a href="https://www.credly.com/badges/1297ae51-7177-42ed-88b5-785172b3a333/public_url">
   <img src="https://crucialexams-prod.nyc3.cdn.digitaloceanspaces.com/crucialexams/Production/subjects/81.webp?ts=1769698126" width="200" alt="SSCP - Systems Security Certified Practitioner"/>
