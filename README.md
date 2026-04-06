@@ -31,5 +31,9 @@
   <img src="https://images.credly.com/images/c4320f01-2ff4-4508-984a-415fc94e3aec/image.png" width="110" alt="SSCP - Systems Security Certified Practitioner" />
 </a>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1297ae51-7177-42ed-88b5-785172b3a333" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+
 [youtube]: https://www.youtube.com/@EdwinAMaderaCoronado
 [linkedin]: https://www.linkedin.com/in/edwinmadera03
