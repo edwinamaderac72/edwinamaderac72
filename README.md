@@ -24,14 +24,12 @@
 
 <h2>🏅 Certifications</h2>
 
-<a href="https://www.credly.com/org/isc2/badge/cc" target="_blank">
-  <img src="https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="110" alt="CC - Certified in Cybersecurity" />
+<a href="https://www.credly.com/org/isc2/badge/cc" target="https://www.credly.com/badges/bade9dab-11f8-4941-a5d7-c2938649ecd9/public_url">
+  <img src="https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="110" alt="CC - Certified in Cybersecurity" style="background-color: white; border-radius: 8px; padding: 4px;" />
 </a>
-<a href="https://www.credly.com/org/isc2/badge/sscp" target="_blank">
-  <img src="https://images.credly.com/images/c4320f01-2ff4-4508-984a-415fc94e3aec/image.png" width="110" alt="SSCP - Systems Security Certified Practitioner" />
+<a href="https://www.credly.com/org/isc2/badge/sscp" target="https://www.credly.com/badges/1297ae51-7177-42ed-88b5-785172b3a333/public_url">
+  <img src="https://images.credly.com/images/c4320f01-2ff4-4508-984a-415fc94e3aec/image.png" width="110" alt="SSCP - Systems Security Certified Practitioner" style="background-color: white; border-radius: 8px; padding: 4px;" />
 </a>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1297ae51-7177-42ed-88b5-785172b3a333" data-share-badge-host="https://www.credly.com"></div>
 
 
 
