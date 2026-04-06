@@ -9,8 +9,8 @@
 
 <h2>🖥️ IT & Sys Admin Lab:</h2>
 
-- <b>Setting up Virtual Environment (VMWare Pro 17</b>
-  - [VMWare Pro 17 Setup](https://github.com/edwinamaderac72/VMWare-Pro-17-Setup)
+- <b>Windows Server 2022 - 2x DC, DNS, DHCP and Win11 Client with GPO's</b>
+  - [Full lab](https://github.com/edwinamaderac72/Windows-Server-2022-AD-DNS-DHCP)
 
 
 <h2>📺 Future Videos</h2>
