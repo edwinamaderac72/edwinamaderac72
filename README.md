@@ -31,6 +31,22 @@
   <img src="https://images.credly.com/images/c4320f01-2ff4-4508-984a-415fc94e3aec/image.png" width="110" alt="SSCP - Systems Security Certified Practitioner" style="background-color: white; border-radius: 8px; padding: 4px;" />
 </a>
 
+<h2>🏅 Certifications</h2>
+
+<table>
+  <tr>
+    <td bgcolor="white" style="border-radius: 8px; padding: 4px;">
+      <a href="https://www.credly.com/org/isc2/badge/cc" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="110" alt="CC - Certified in Cybersecurity" />
+      </a>
+    </td>
+    <td bgcolor="white" style="border-radius: 8px; padding: 4px;">
+      <a href="https://www.credly.com/org/isc2/badge/sscp" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/9bf57f8f-1db1-4e34-81e3-a9a6cfc5abd4/image.png" width="110" alt="SSCP - Systems Security Certified Practitioner" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 [youtube]: https://www.youtube.com/@EdwinAMaderaCoronado
