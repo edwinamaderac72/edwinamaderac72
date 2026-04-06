@@ -1,17 +1,14 @@
 <h1>Hi, I'm Edwin! <br/><a href="https://www.linkedin.com/in/edwinmadera03/">IT & Cybersecurity Professional</a>
 
-<h1> ⚠️ Repo under construction ⚠️ </h1>
-
-<h2>Step by Step guide is under construction, but in the meantime, here's the diagram of the IT & Sys Admin Lab</h2> <br/>
-<img src="https://i.imgur.com/vydELgt.jpeg" height="80%" width="80%" alt="Diagram"/>
-<img src="https://i.imgur.com/qpqm6ON.jpeg" height="80%" width="80%" alt="Changes"/>
-<br />
-
 <h2>🖥️ IT & Sys Admin Lab:</h2>
 
 - <b>Windows Server 2022 - 2x DC, DNS, DHCP and Win11 Client with GPO's</b>
   - [Full lab](https://github.com/edwinamaderac72/Windows-Server-2022-AD-DNS-DHCP)
 
+<h2>INCOMING: Wazuh SIEM Monitoring environment</h2>
+- <b>Wazuh Manager hosted in Ubuntu</b>
+- <b>Configure agents to ingest logs</b>
+- <b>Create custom detecting rules</b>
 
 <h2>📺 Future Videos</h2>
 
