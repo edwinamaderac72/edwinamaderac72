@@ -25,10 +25,10 @@
 <h2>🏅 Certifications</h2>
 
 <a href="https://www.credly.com/badges/1297ae51-7177-42ed-88b5-785172b3a333/public_url">
-  <img src="https://miro.medium.com/0*jSndyp85wO4-ZBGh.jpeg" width="110" alt="CC - Certified in Cybersecurity"/>
+  <img src="https://miro.medium.com/0*jSndyp85wO4-ZBGh.jpeg" width="220" alt="CC - Certified in Cybersecurity"/>
 </a>
 <a href="https://www.credly.com/badges/1297ae51-7177-42ed-88b5-785172b3a333/public_url">
-  <img src="https://www.succurri.com/wp-content/uploads/2025/09/SSCP-Certification-2.webp" width="110" alt="SSCP - Systems Security Certified Practitioner"/>
+  <img src="https://www.succurri.com/wp-content/uploads/2025/09/SSCP-Certification-2.webp" width="220" alt="SSCP - Systems Security Certified Practitioner"/>
 </a>
 
 [youtube]: https://www.youtube.com/@EdwinAMaderaCoronado
