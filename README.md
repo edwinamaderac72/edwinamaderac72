@@ -5,8 +5,8 @@
 - <b>Windows Server 2022 - 2x DC, DNS, DHCP and Win11 Client with GPO's</b>
   - [Windows Server Lab](https://github.com/edwinamaderac72/Windows-Server-2022-AD-DNS-DHCP)
 
-<h2>INCOMING: [🔐 Cybersecurity] Wazuh SIEM Monitoring environment</h2>
-- <b>Wazuh Manager hosted in Ubuntu</b></br>
+<h2>INCOMING: [🔐 Cybersecurity] Splunk SIEM Monitoring environment</h2>
+- <b>Splunk Manager hosted in Ubuntu</b></br>
 - <b>Configure agents to ingest logs</b></br>
 - <b>Create custom detecting rules</b></br>
 
