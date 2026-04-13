@@ -2,8 +2,9 @@
 
 <h2>🖥️ IT & Sys Admin Lab:</h2>
 
-- <b>Windows Server 2022 - 2x DC, DNS, DHCP and Win11 Client with GPO's</b>
+- <b>Windows Server 2022 - 2x DC, DNS, DHCP, GPO's</b>
   - [Windows Server Lab](https://github.com/edwinamaderac72/Windows-Server-2022-AD-DNS-DHCP)
+     - [A new user has been added] 
 
 <h2>INCOMING: [🔐 Cybersecurity] Splunk SIEM Monitoring environment</h2>
 - <b>Splunk Manager hosted in Ubuntu</b></br>
